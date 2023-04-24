@@ -1,0 +1,28 @@
+body{
+  background: url(https://i.pinimg.com/originals/22/05/68/220568ed4e83c98f2a390a0e3d92efb3.jpg);
+}
+h1{
+  color: rgb(224, 224, 38);
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+#brushes{
+  background-color: rgb(17, 201, 17);
+  color: white;
+}
+#price ,h3{
+  font-family: Helvetica ;
+}
+#price{
+  color: blue;
+  font-weight: bold;
+}
+#frames{
+  color: white;
+  background-color: brown;
+}
+#paint{
+  color: white;
+  background-color: aqua;
+}
